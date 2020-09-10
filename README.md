@@ -8,8 +8,7 @@
     + 使用 bower 来管理 WEB 应用程序依赖包，包括安装、卸载、更新模块操作；
     bower 官网地址：[bower.io](https://bower.io/)。
     + gulp 用来机械化的完成重复性工作，将重复性工作抽象成一个个小任务聚合起来自动执行；
-    gulp 官网地址：[gulpjs.com](https://gulpjs.com/)；
-    中文官网地址：[gulpjs.com.cn](https://www.gulpjs.com.cn/)。
+    gulp 官网地址：[gulpjs.com](https://gulpjs.com/)，中文官网地址：[gulpjs.com.cn](https://www.gulpjs.com.cn/)。
 
 
 #### 软件架构
