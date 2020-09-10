@@ -1,4 +1,4 @@
-# nodejs-npm
+# nodejs-gulp
 
 #### 介绍
 	+ 使用 npm 来管理应用程序依赖包；

@@ -1,15 +1,16 @@
 {
-    "name": "nodejs-npm",
-    "description": "使用 npm 来管理应用程序依赖包",
+    "name": "nodejs-gulp",
+    "description": "一个使用 npm 和 bower 进行包管理，gulp 进行自动化构建的快速 web 骨架工程。",
     "authors": [
         "吴佳隆"
     ],
-    "license": "ISC",
+    "license": "AGPL-3.0",
     "keywords": [
-        "npm",
+        "nodejs",
+        "gulp",
         "吴佳隆"
     ],
-    "homepage": "https://gitee.com/wujialong576/nodejs-npm.git",
+    "homepage": "https://gitee.com/wujialong576/nodejs-gulp.git",
     "ignore": [
         "**/.*",
         "node_modules",
