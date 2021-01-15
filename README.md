@@ -1,4 +1,4 @@
-# nodejs-gulp
+# d7c_nodejs_gulp
 
 #### 介绍
 	+ 使用 npm 来管理应用程序依赖包；

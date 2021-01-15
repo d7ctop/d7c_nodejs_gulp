@@ -1,5 +1,5 @@
 {
-    "name": "nodejs-gulp",
+    "name": "d7c_nodejs_gulp",
     "version": "1.0.0",
     "description": "一个使用 npm 和 bower 进行包管理，gulp 进行自动化构建的快速 web 骨架工程。",
     "scripts": {
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://gitee.com/wujialong576/nodejs-gulp.git"
+        "url": "https://gitee.com/wujialong576/d7c_nodejs_gulp.git"
     },
     "keywords": [
         "nodejs",
