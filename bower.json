@@ -10,7 +10,7 @@
         "gulp",
         "吴佳隆"
     ],
-    "homepage": "https://gitee.com/wujialong576/d7c_nodejs_gulp.git",
+    "homepage": "https://gitee.com/d7c_admin/d7c_nodejs_gulp.git",
     "ignore": [
         "**/.*",
         "node_modules",
