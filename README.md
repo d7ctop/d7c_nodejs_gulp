@@ -40,6 +40,7 @@
 	+ 文件合并：npm install --save-dev gulp-concat
 	+ 压缩 css：npm install gulp-cssnano --save-dev
 	+ 压缩 JS：npm install --save-dev gulp-uglify
+    + 对 ES6 的支持：npm install --save-dev babel-cli babel-runtime babel-core babel-preset-env babel-preset-es2015 gulp-babel@7
 	+ 压缩 HTML：npm install --save-dev gulp-htmlmin
 	+ 实时同步效果到客户端：npm install --save-dev browser-sync
 	+ 删除目录：npm install --save-dev del
