@@ -1,8 +1,8 @@
 # d7c_nodejs_gulp
 
 #### 介绍
-	+ 使用 npm 来管理应用程序依赖包；
-	npm 官网地址：[npmjs.com](https://www.npmjs.com/)；
+    + 使用 npm 来管理应用程序依赖包；
+    npm 官网地址：[npmjs.com](https://www.npmjs.com/)；
     npm 全称 Node Package Manager 是 node 应用程序依赖包的管理工具，包括安装、卸载、更新模块操作；
     使用 nodejs 开发时一般使用 npm 来管理 nodejs 中的包。
     + 使用 bower 来管理 WEB 应用程序依赖包，包括安装、卸载、更新模块操作；
@@ -12,7 +12,7 @@
 
 
 #### 软件架构
-	一个使用 npm 和 bower 进行包管理，gulp 进行自动化构建的快速 web 骨架工程。
+    一个使用 npm 和 bower 进行包管理，gulp 进行自动化构建的快速 web 骨架工程。
 
 
 #### 安装教程（都在项目根目录下操作）
@@ -40,7 +40,7 @@
 	+ 文件合并：npm install --save-dev gulp-concat
 	+ 压缩 css：npm install gulp-cssnano --save-dev
 	+ 压缩 JS：npm install --save-dev gulp-uglify
-    + 对 ES6 的支持：npm install --save-dev babel-cli babel-runtime babel-core babel-preset-env babel-preset-es2015 gulp-babel@7
+        + 对 ES6 的支持：npm install --save-dev babel-cli babel-runtime babel-core babel-preset-env babel-preset-es2015 gulp-babel@7
 	+ 压缩 HTML：npm install --save-dev gulp-htmlmin
 	+ 实时同步效果到客户端：npm install --save-dev browser-sync
 	+ 删除目录：npm install --save-dev del
