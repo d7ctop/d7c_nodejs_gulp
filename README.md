@@ -1,11 +1,11 @@
 # d7c_nodejs_gulp
 
 #### 介绍
-+ 使用 npm 来管理应用程序依赖包  
++ 使用 npm 来管理应用程序依赖包
 &emsp;&emsp;npm 官网地址：[npmjs.com](https://www.npmjs.com/)，npm 全称 Node Package Manager 是 node 应用程序依赖包的管理工具，包括安装、卸载、更新模块操作，使用 nodejs 开发时一般使用 npm 来管理 nodejs 中的包。
-+ 使用 bower 来管理 WEB 应用程序依赖包，包括安装、卸载、更新模块操作  
++ 使用 bower 来管理 WEB 应用程序依赖包，包括安装、卸载、更新模块操作
 &emsp;&emsp;bower 官网地址：[bower.io](https://bower.io/)。
-+ gulp 用来机械化的完成重复性工作，将重复性工作抽象成一个个小任务聚合起来自动执行  
++ gulp 用来机械化的完成重复性工作，将重复性工作抽象成一个个小任务聚合起来自动执行
 &emsp;&emsp;gulp 官网地址：[gulpjs.com](https://gulpjs.com/)，中文官网地址：[gulpjs.com.cn](https://www.gulpjs.com.cn/)。
 
 #### 软件架构
@@ -31,16 +31,16 @@
 	+ npm install --save-dev gulp
 6.  在项目根目录下创建 gulp 主文件 gulpfile.js
 7.  安装开发依赖模块
-	+ less 编译：npm install gulp-less --save-dev
+	+ less 编译：npm install --save-dev gulp-less
 	+ 文件合并：npm install --save-dev gulp-concat
-	+ 压缩 css：npm install gulp-cssnano --save-dev
+	+ 压缩 css：npm install --save-dev gulp-cssnano
 	+ 压缩 JS：npm install --save-dev gulp-uglify
 	+ 对 ES6 的支持：npm install --save-dev babel-cli babel-runtime babel-core babel-preset-env babel-preset-es2015 gulp-babel@7
 	+ 压缩 HTML：npm install --save-dev gulp-htmlmin
 	+ 实时同步效果到客户端：npm install --save-dev browser-sync
 	+ 删除目录：npm install --save-dev del
-	+ css 清理：npm install gulp-clean-css --save-dev
-	+ 重命名：npm install gulp-rename --save-dev
+	+ css 清理：npm install --save-dev gulp-clean-css
+	+ 重命名：npm install --save-dev gulp-rename
 8.  在 gulpfile.js 创建自动执行任务
 9.  运行项目 gulp / gulp build
 
