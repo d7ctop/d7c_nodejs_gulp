@@ -2,11 +2,11 @@
 
 #### 介绍
 + 使用 npm 来管理应用程序依赖包<br/>
-&emsp;&emsp;npm 官网地址：[npmjs.com](https://www.npmjs.com/)，npm 全称 Node Package Manager 是 node 应用程序依赖包的管理工具，包括安装、卸载、更新模块操作，使用 nodejs 开发时一般使用 npm 来管理 nodejs 中的包。
+&emsp;&emsp;npm 官网地址：[https://www.npmjs.com](https://www.npmjs.com/)，npm 全称 Node Package Manager 是 node 应用程序依赖包的管理工具，包括安装、卸载、更新模块操作，使用 nodejs 开发时一般使用 npm 来管理 nodejs 中的包。
 + 使用 bower 来管理 WEB 应用程序依赖包，包括安装、卸载、更新模块操作<br/>
-&emsp;&emsp;bower 官网地址：[bower.io](https://bower.io/)。
+&emsp;&emsp;bower 官网地址：[https://bower.io](https://bower.io/)。
 + gulp 用来机械化的完成重复性工作，将重复性工作抽象成一个个小任务聚合起来自动执行<br/>
-&emsp;&emsp;gulp 官网地址：[gulpjs.com](https://gulpjs.com/)，中文官网地址：[gulpjs.com.cn](https://www.gulpjs.com.cn/)。
+&emsp;&emsp;gulp 官网地址：[https://gulpjs.com](https://gulpjs.com/)，中文官网地址：[https://www.gulpjs.com.cn](https://www.gulpjs.com.cn/)。
 
 #### 软件架构
 &emsp;&emsp;一个使用 npm 和 bower 进行包管理，gulp 进行自动化构建的快速 web 骨架工程。
