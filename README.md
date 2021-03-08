@@ -36,10 +36,6 @@
 	+ 压缩 css：npm install --save-dev gulp-cssnano
 	+ 压缩 JS：npm install --save-dev gulp-uglify
 	+ ES2015 转码规则：npm install --save-dev babel-cli babel-runtime babel-core babel-preset-env babel-preset-es2015 gulp-babel@7
-	+ react 转码规则：npm install --save-dev babel-preset-react
-	+ ES7 转码规则：npm install --save-dev babel-preset-stage-0
-	+ 使用类似于 node 的 require() 的方式来组织浏览器端的 Javascript 代码：npm install --save-dev browserify
-	+ 将 browserify.bundle() 的输出转换为 Gulp 可用的 vinyl（一种虚拟文件格式）流：npm install --save-dev vinyl-source-stream
 	+ 压缩 HTML：npm install --save-dev gulp-htmlmin
 	+ 实时同步效果到客户端：npm install --save-dev browser-sync
 	+ 删除目录：npm install --save-dev del
