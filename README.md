@@ -68,7 +68,7 @@ npm install --save-dev gulp
 1. 下载项目并在项目根目录下执行 npm install 和 bower install（或直接在项目根目录下执行 npm run start / npm start / npm run test / npm test 安装并运行项目）
 2. 运行项目 gulp / gulp build
 
-## 捐助
+## 捐助打赏
 
 如果您觉得我们的开源软件对你有所帮助，请扫下方二维码打赏我们一杯咖啡。
 ![微信收款码](https://images.gitee.com/uploads/images/2021/0222/174352_b22739f5_1070311.jpeg "微信收款码.jpg")
