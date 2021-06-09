@@ -91,4 +91,7 @@ npm install --save-dev gulp
 5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
 
+[//]: (下面这段用于在Markdown编辑器中显示段落缩进)
+<!-- 下面这段用于在 Markdown 编辑器中显示段落缩进 -->
+
 <style>p{text-indent:2em}</style>
